@@ -1,6 +1,12 @@
-# Hey 👋, Hello! I'm Afnad Hossain, a CSE student and an enthusiastic Full-Stack Developer passionate about building useful, modern, and user-friendly web applications.
+# 👋 Hey, I'm Afnad Hossain.
 
 ### A passionate Full-Stack Developer from Bangladesh.
+
+## 👨‍💻 About Me
+
+Hello! I'm **Afnad Hossain**, a **CSE student** passionate about building useful, modern, and user-friendly web applications.
+
+I enjoy learning how things work, solving programming problems, and turning ideas into real-world projects.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afnadhossain&label=Profile views&color=0e75b6&style=flat" alt="afnadhossain" /> </p>
 
