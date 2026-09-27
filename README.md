@@ -1,3 +1,12 @@
+<p align="center">
+  <img 
+    src="https://github.com/afnadhossain/github-profile-assets/blob/main/git-hub-banner.jpeg?raw=true" 
+    width="100%" 
+    alt="Afnad Hossain GitHub Banner"
+  />
+</p>
+
+
 # 👋 Hey, I'm Afnad Hossain.
 
 ### A passionate Full-Stack Developer from Bangladesh.
