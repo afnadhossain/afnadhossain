@@ -1,4 +1,4 @@
-# Hey 👋, I'm Afnad Hossain
+# Hey 👋, Hello! I'm Afnad Hossain, a CSE student and an enthusiastic Full-Stack Developer passionate about building useful, modern, and user-friendly web applications.
 
 ### A passionate Full-Stack Developer from Bangladesh.
 
